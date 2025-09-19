@@ -1,0 +1,5 @@
+{
+  "name": "Relationship Dynamics Analyzer",
+  "description": "An AI-powered application that analyzes conversation transcripts to provide data-backed insights into relationship dynamics, communication patterns, and potential red flags, based on psychological principles.",
+  "requestFramePermissions": []
+}
